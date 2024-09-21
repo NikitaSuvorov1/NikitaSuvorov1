@@ -7,7 +7,7 @@
 ## Технологии и инструменты
 
 -  Языки: Python, SQL
--  Инструменты: Tableau, Apache Airflow, Qliksence, PowerBI, Apache Hadoop,
+-  Инструменты: Tableau, Apache Airflow, Qliksence, PowerBI, Apache Hadoop, Pandas, Numpy, Scipy
 -  Базы данных: Postgresql, ClickHouse, Greenplum
 
 
