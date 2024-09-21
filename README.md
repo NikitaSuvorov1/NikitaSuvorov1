@@ -1,20 +1,21 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**NikitaSuvorov1/NikitaSuvorov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Никита! Я занимаюсь инженерией данных , bi-аналитикой и решаю задачи на LeetCode. Добро пожаловать в мой GitHub!
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikitaSuvorov1&show_icons=true&theme=radical)
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=LeetCode%20Solved&query=solvedCount&url=https://leetcode-stats-api.herokuapp.com/nikitasuvorov1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии и инструменты
 
-![](https://leetcard.jacoblin.cool/nikitasuvorov1?border=0&radius=20)
+-  Языки: Python, SQL
+-  Инструменты: Tableau, Apache Airflow, Qliksence, PowerBI, Apache Hadoop,
+-  Базы данных: Postgresql, ClickHouse, Greenplum
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/nikitasuvorov1?ext=activity)
+
+
+## Связаться со мной
+
+- 📫 Email: <nsuvorov0810@mail.ru>
+- Telegram: @nikitasuvorovv
+
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
