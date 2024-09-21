@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://leetcard.jacoblin.cool/nikitasuvorov1?border=0&radius=20)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/nikitasuvorov1?ext=activity)
